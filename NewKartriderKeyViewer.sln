@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NewKartriderKeyViewer", "NewKartriderKeyViewer\NewKartriderKeyViewer.vbproj", "{132FFA7F-961D-4F31-96F3-5AB4934A2D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132FFA7F-961D-4F31-96F3-5AB4934A2D84}.Debug|x86.ActiveCfg = Debug|x86
+		{132FFA7F-961D-4F31-96F3-5AB4934A2D84}.Debug|x86.Build.0 = Debug|x86
+		{132FFA7F-961D-4F31-96F3-5AB4934A2D84}.Release|x86.ActiveCfg = Release|x86
+		{132FFA7F-961D-4F31-96F3-5AB4934A2D84}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
